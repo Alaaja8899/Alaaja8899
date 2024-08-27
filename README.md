@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on @faashAcademy
+- 🔭 I’m currently working on Vending machine to control using ble protocol
 - 🌱 I’m currently learning Bluetooth-Low-Energy (BLE)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
