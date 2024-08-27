@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on @faashAcademy
+- 🌱 I’m currently learning Bluetooth-Low-Energy (BLE)
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
 
 <!--
 **Alaaja8899/Alaaja8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
